@@ -32,6 +32,6 @@ PRODUCT_RUNTIMES := runtime_libart_default
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := cm_redhookbay
 PRODUCT_BRAND := LENOVO
-PRODUCT_MODEL := LENOVO_K900
+PRODUCT_MODEL := LENOVO_redhookbay
 PRODUCT_MANUFACTURER := LENOVO
-PRODUCT_DEVICE := K900
+PRODUCT_DEVICE := redhookbay
