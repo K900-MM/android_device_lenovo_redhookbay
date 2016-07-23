@@ -1,1 +1,0 @@
-# android_device_lenovo_redhookbay
